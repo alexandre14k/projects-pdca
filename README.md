@@ -1,6 +1,8 @@
 # projects-pdca
 public released PDCA projects
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/projects-pdca&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 ## PDCA (Plan Do Check Act)
 Continous improvement framework intended to improve quality of delivered products and services.
 
